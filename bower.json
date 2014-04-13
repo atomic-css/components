@@ -1,0 +1,22 @@
+{
+  "name": "atomic-css-components",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/components",
+  "authors": [
+    "Lukáš Mladý"
+  ],
+  "description": "Atomic CSS components",
+  "dependencies": {
+    "atomic-css-components-arrange": "~1.0.0",
+    "atomic-css-components-button": "~1.0.0",
+    "atomic-css-components-flex-embed": "~1.0.0",
+    "atomic-css-components-form-control": "~1.0.0",
+    "atomic-css-components-grid": "~1.0.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}
